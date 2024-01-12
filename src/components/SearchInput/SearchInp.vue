@@ -37,7 +37,7 @@
         ref="searchInputRef"
         type="text"
         label="search"
-        title="请输入搜索内容"
+        title="请输入搜索内容喵~"
         autocomplete="false"
         :placeholder="inputTip"
         v-model="status.searchInputValue"
@@ -170,6 +170,7 @@ const changeEngine = () => {
   status.setSiteStatus("focus", false);
   status.setEngineChangeStatus(!status.engineChangeStatus);
 };
+
 </script>
 
 <style lang="scss" scoped>
