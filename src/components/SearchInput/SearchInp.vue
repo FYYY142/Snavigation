@@ -140,7 +140,7 @@ const toSearch = (val, type = 1) => {
     closeSearchInput(true);
   } else {
     if (status.siteStatus === "focus") {
-      $message.info("请输入搜索内容", { duration: 1500 });
+      $message.info("请输入搜索内容喵~", { duration: 1500 });
     }
     status.setSiteStatus("focus");
     searchInputRef.value?.focus();
