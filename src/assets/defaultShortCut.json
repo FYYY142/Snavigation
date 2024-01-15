@@ -33,5 +33,20 @@
     "id": 7,
     "name": "教务系统",
     "url": "https://211.82.48.36/login"
+  },
+  {
+    "id": 8,
+    "name": "今日热榜",
+    "url": "https://hot.xfeng.icu/"
+  },
+  {
+    "id": 9,
+    "name": "占位",
+    "url": "https://www.baidu.com/"
+  },
+  {
+    "id": 10,
+    "name": "占位",
+    "url": "https://www.baidu.com/"
   }
 ]
