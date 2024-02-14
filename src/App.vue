@@ -16,6 +16,7 @@
       >
         <WeatherTime />
         <SearchInp @contextmenu.stop />
+        <Label />
         <AllFunc @contextmenu.stop />
         <Footer />
         <!-- 状态切换 -->
@@ -67,6 +68,7 @@ import Provider from "@/components/Provider.vue";
 import Cover from "@/components/Cover.vue";
 import WeatherTime from "@/components/WeatherTime.vue";
 import SearchInp from "@/components/SearchInput/SearchInp.vue";
+import Label from "@/components/Label.vue";
 import AllFunc from "@/components/AllFunc/AllFunc.vue";
 import Footer from "@/components/Footer.vue";
 
